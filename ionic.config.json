@@ -1,0 +1,7 @@
+{
+  "name": "chalo-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
